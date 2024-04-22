@@ -3,7 +3,7 @@ void main() {
   var list = [3,5,9,7,1];
   print('Original List');
   print(list);
-  print('---------------------');
+  print('_______________');
   print('Sorted using QuickSort:');
   print(quickSort(list));
 }
